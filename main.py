@@ -8,4 +8,3 @@ while True:
         break
     engine.say(user)
     engine.runAndWait()
-    
